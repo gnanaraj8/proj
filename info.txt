@@ -1,0 +1,9 @@
+info.txt
+
+Test_code: contain coding
+Test_Data: contain only data of the coding
+
+
+command to run Test
+ pytest -v -s  --html=C:\Users\HP\Desktop\proj2\report\test_raj_UPDATED.html testraj.py
+ 
